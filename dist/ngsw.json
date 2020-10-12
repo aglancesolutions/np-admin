@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1602538346828,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.f7b4b4957ca863e0dcf7.js",
+        "/main-es5.f7b4b4957ca863e0dcf7.js",
+        "/polyfills-es2015.3dbc83d7cd027bd68f77.js",
+        "/polyfills-es5.cfe9edcafc639606a935.js",
+        "/runtime-es2015.1eba213af0b233498d9d.js",
+        "/runtime-es5.1eba213af0b233498d9d.js",
+        "/scripts.806a5d4ef7c10c52620a.js",
+        "/styles.e91b254c73d986841969.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/MaterialIcons-Regular-v48.12a47ed5fd5585f0f422.woff2",
+        "/assets/icons/bad.png",
+        "/assets/icons/happy.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/logo.png",
+        "/assets/icons/love_it.png",
+        "/assets/icons/neutral.png",
+        "/assets/icons/sad.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/MaterialIcons-Regular-v48.12a47ed5fd5585f0f422.woff2": "308ee3580a4a34bd230025d460762d53b5344efc",
+    "/assets/icons/bad.png": "aad91ddb051e5a6643b35eb3bfb634ff059a0a14",
+    "/assets/icons/happy.png": "516bd2304f3737b00a02ddd948fb87a14e45f175",
+    "/assets/icons/icon-128x128.png": "1e14fb132b0d676f319052f8035863b587611378",
+    "/assets/icons/icon-144x144.png": "db85edc0bc7f3989390876b3a209acfcb5e69e4e",
+    "/assets/icons/icon-152x152.png": "b2fe7dcad9e810f658ff805ef7802e9b878a4e82",
+    "/assets/icons/icon-192x192.png": "ae5a475fae840097c9124140138e469b3cb1947e",
+    "/assets/icons/icon-384x384.png": "d66ee479b8d95418c74e2dc60c9fae3832ae6308",
+    "/assets/icons/icon-512x512.png": "c9d1c7651d00e8d21e4feb40f7f0b7d00dc9f03d",
+    "/assets/icons/icon-72x72.png": "bfcc07b6e78112d6d7e8d6b8a604a53b617d4f77",
+    "/assets/icons/icon-96x96.png": "a97f2c7fe8e6ea6dff2b88420ff9f4631154b33b",
+    "/assets/icons/logo.png": "1a99293ef23f53105678faf60b57b3ef6105a1ee",
+    "/assets/icons/love_it.png": "793fd3b9b032138bd9254830e1be29c3c22793b2",
+    "/assets/icons/neutral.png": "c39aa5a03105da073ad53b3ad268ea1aa4f60aa9",
+    "/assets/icons/sad.png": "e3209de1308dc05fd1b3938ff68b312dcce66c89",
+    "/favicon.ico": "b9478484f2831137ea4edffaaa6e4570c60433da",
+    "/index.html": "19419adfbacdec4f3dceec99a1f2093cbd2fcc91",
+    "/main-es2015.f7b4b4957ca863e0dcf7.js": "d5680c6f11e4956b8dd65e7d10c4f27479ec1c4b",
+    "/main-es5.f7b4b4957ca863e0dcf7.js": "7465023c3e9be6f13d37435efec00e29c0a32da7",
+    "/polyfills-es2015.3dbc83d7cd027bd68f77.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.cfe9edcafc639606a935.js": "1cdd6edf9f4c55c5d96f484c564dc6c6374e083d",
+    "/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.806a5d4ef7c10c52620a.js": "06e89d3b6aa655458fb53bed81ddeec3453bd1c5",
+    "/styles.e91b254c73d986841969.css": "4742e88615b3958541f4c9cb20756763269aca69"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
